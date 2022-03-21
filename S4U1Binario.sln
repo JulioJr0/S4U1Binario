@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S4U1Binario", "S4U1Binario\S4U1Binario.csproj", "{8CA9C21B-6F14-44A2-B7FD-02DEA24E491C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA9C21B-6F14-44A2-B7FD-02DEA24E491C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA9C21B-6F14-44A2-B7FD-02DEA24E491C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA9C21B-6F14-44A2-B7FD-02DEA24E491C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA9C21B-6F14-44A2-B7FD-02DEA24E491C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197CA15C-38D7-4359-8CDE-10BF3709AD4A}
+	EndGlobalSection
+EndGlobal
